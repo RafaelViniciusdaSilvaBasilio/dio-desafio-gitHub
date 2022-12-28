@@ -1,0 +1,9 @@
+abertura arquivo em python:
+
+'r'= para leitura
+'w'= para escrita
+'x'= criação exclusiva, falahando caso o arquivo exista
+'a'= para escrita, anexando ao final do arquivo caso ele exista
+'b'= modo binário
+'t'= modo texto
+'+'= abre para atualização(leitura e escrita)
